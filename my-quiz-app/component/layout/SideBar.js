@@ -70,7 +70,7 @@ const SideBar = ({ element }) => {
           <Content style={{ margin: "24px 16px 0", height: "83vh" }}>
             <div
               className="site-layout-background"
-              style={{ padding: 24, minHeight: 400 }}
+              style={{ padding: 24, minHeight: 401 }}
             >
               {element}
             </div>
